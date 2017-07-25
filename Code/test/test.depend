@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1412950887 source:h:\test\main.c
+
+1412843501 source:h:\test\1.c
+	<stdio.h>
+
